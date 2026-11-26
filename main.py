@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Funniest Lost Sock Status Update — make.fun entry.
+"""Funniest Lost Sock Status Update — a make.fun entry.
 
-Writes one status update, in the voice of a lost sock, to /output/entry.txt.
-The line is 112 characters, inside the 1-120 gate, with no trailing newline.
+Writes a single status update, in the voice of a lost sock, to /output/entry.txt.
+The entry line is 112 characters, inside the 1-120 gate, with no trailing newline.
 """
 
 import os
